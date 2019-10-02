@@ -1,14 +1,14 @@
 [
 {
-  "modid": "examplemod",
-  "name": "Example Mod",
-  "description": "Example placeholder mod.",
+  "modid": "crustaceancelebration",
+  "name": "Crustacean Celebration",
+  "description": "Oh yeah? You like crabs? Maybe raves too?",
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "",
   "updateUrl": "",
-  "authorList": ["ExampleDude"],
-  "credits": "The Forge and FML guys, for making this example",
+  "authorList": ["pazivail"],
+  "credits": "Noisestorm - Crab Rave, grande1899 - CRAB NOTE BLOCK RAVE",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []

@@ -1,0 +1,11 @@
+{
+  "record.celebration": {
+	"category": "record",
+	"sounds": [
+	  {
+		"name": "crustaceancelebration:music/celebration",
+		"stream": true
+	  }
+	]
+  }
+}
